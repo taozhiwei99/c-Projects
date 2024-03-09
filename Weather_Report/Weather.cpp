@@ -1259,8 +1259,6 @@ void pressEnter()
 // menu options
 void displayMenu () 
 {
-	cout << "Student ID\t: 7433451" << endl;
-	cout << "Student Name\t: Tao ZhiWei" << endl;
 	cout << "--------------------------------------------------" << endl;
 	cout << "Welcome to Weather Information Processing System! " << endl;
 	cout << endl;
